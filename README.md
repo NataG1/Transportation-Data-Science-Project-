@@ -2,13 +2,11 @@
 
 Transportation Data Science Project (TDSP).  The TDSP provides an opportunity to gain practical experience with data science by creating data-driven recommendations to make roads safer for all. Network with TDSP Mentors, receive a virtual certificate of completion, and expand your skillset in the field of data science.
 
-The TDSP is brought to you by the Northeast Big Data Innovation Hub (NEBDHub), National Student Data Corps (NSDC), and U.S. Department of Transportation Federal Highway Administration.
+The TDSP is brought by the Northeast Big Data Innovation Hub (NEBDHub), National Student Data Corps (NSDC), and U.S. Department of Transportation Federal Highway Administration.
 
 The Explorer TDSP has six Milestones.
 
-Important Dates: There is no strict start/end date for this project. You may complete it asynchronously and submit when you are ready.
-
-Skills You May Gain: Data Cleaning, Python Programming, Time Series Analysis, Geospatial Analysis, Data Visualization, and Critical Thinking Skills
+Skills: Data Cleaning, Python Programming, Time Series Analysis, Geospatial Analysis, Data Visualization, and Critical Thinking Skills
 
 Milestones:
 
