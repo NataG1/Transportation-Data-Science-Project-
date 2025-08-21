@@ -1,10 +1,10 @@
 # TDSP_Columbia-University
 
-Transportation Data Science Project (TDSP).  The TDSP provides an opportunity to gain practical experience with data science by creating data-driven recommendations to make roads safer for all. Network with TDSP Mentors, receive a virtual certificate of completion, and expand your skillset in the field of data science.
+Transportation Data Science Project (TDSP). 
+
+GOAL: Use data science to create data-driven recommendations to make roads safer for all. 
 
 The TDSP is brought by the Northeast Big Data Innovation Hub (NEBDHub), National Student Data Corps (NSDC), and U.S. Department of Transportation Federal Highway Administration.
-
-The Explorer TDSP has six Milestones.
 
 Skills: Data Cleaning, Python Programming, Time Series Analysis, Geospatial Analysis, Data Visualization, and Critical Thinking Skills
 
